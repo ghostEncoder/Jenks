@@ -10,7 +10,7 @@ namespace Jenks
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("THIS IS A CONSOLE APP!");
+            Console.WriteLine("THIS IS A CONSOLE APP!")
         }
     }
 }
